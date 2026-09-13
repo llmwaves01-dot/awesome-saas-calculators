@@ -1,5 +1,4 @@
-# awesome-saas-calculators
-A curated list of free SaaS calculators — no sign-up, no email gates.
+
 # Awesome SaaS Calculators
 
 A curated list of free calculators for SaaS buyers, founders and operators.
