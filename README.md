@@ -3,6 +3,8 @@
 
 A curated list of free calculators for SaaS buyers, founders and operators.
 
+Curated by [SaaSSwitcher](https://www.saasswitcher.com), which publishes dated SaaS pricing research.
+
 Every tool on this list is free to use with **no sign-up and no email gate**.
 If a tool starts gating results behind a form, open an issue and it comes off
 the list.
