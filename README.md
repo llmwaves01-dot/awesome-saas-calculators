@@ -25,6 +25,7 @@ Working out whether a subscription is worth paying for.
 
 Measuring the health of a SaaS business.
 
+- [Calculation Hub Startup Runway Calculator](https://calculation-hub.com/financial/startup-runway) - Estimate monthly net burn, cash-out date, and break-even timing with revenue and expense growth assumptions. Free, no mandatory signup.
 - [Founderpath Free Tools](https://founderpath.com/free-tools) - 35 calculators covering ARR, MRR, burn rate, churn, NRR, cash runway, quick ratio, CAC, LTV and payback period. No signup or email required.
 - [Saasly](https://saasly.app/) - 24+ metrics including MRR, ARR, ARPU, gross margin, CAC, ROAS and churn, plus a benchmark library and glossary. Runs locally in the browser, no data leaves your device.
 - [daydream SaaS Calculators](https://www.withdaydream.com/tools/saas-calculators) - CAC, NRR, churn, CLV, LTV:CAC, MRR and ARR, each benchmarked against real B2B companies between $2M and $50M ARR.
